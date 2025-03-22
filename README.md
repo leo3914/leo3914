@@ -122,4 +122,8 @@ Feel free to drop a message at **pyaephyokywel.webdev@gmail.com**
 <!-- <p align="center">
   ![Leo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&custom_title=leo3914's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </p> -->
-[![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)](https://github.com/leo3914/github-readme-activity-graph)
+<!-- [![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)](https://github.com/leo3914/github-readme-activity-graph) -->
+![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)
+<!-- [![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)](https://github.com/leo3914/github-readme-activity-graph) -->
+<!-- ![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula) -->
+
