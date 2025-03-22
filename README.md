@@ -102,10 +102,24 @@ Feel free to drop a message at **pyaephyokywel.webdev@gmail.com**
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo3914&show_icons=true&locale=en" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo3914&" alt="Streak Stats"/>
+  <a href="https://github.com/leo3914">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo3914&theme=radical&border=7F3FBF&background=0D1117" alt="Leo's GitHub streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo3914&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <a href="https://github.com/leo3914">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leo3914&theme=radical" alt="Leo's GitHub Contribution"/>
+  </a>
 </p>
+
+<a> 
+    <a href="https://github.com/leo3914"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leo3914&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/leo3914"><img alt="Leo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leo3914&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<!-- ### 📈 GitHub Activity Graph -->
+<!-- <p align="center">
+  ![Leo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&custom_title=leo3914's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</p> -->
+[![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)](https://github.com/leo3914/github-readme-activity-graph)
