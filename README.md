@@ -30,10 +30,9 @@ Feel free to drop a message at **pyaephyokywel.webdev@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/">
+<!--   <a href="https://www.gnu.org/software/bash/">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com">
@@ -95,7 +94,7 @@ Feel free to drop a message at **pyaephyokywel.webdev@gmail.com**
   </a>
   <a href="https://webpack.js.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -119,11 +118,12 @@ Feel free to drop a message at **pyaephyokywel.webdev@gmail.com**
   <br/>
 </a>
 <!-- ### 📈 GitHub Activity Graph -->
+<!-- ### 🛠️ Languages and Tools -->
 <!-- <p align="center">
   ![Leo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&custom_title=leo3914's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </p> -->
 <!-- [![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)](https://github.com/leo3914/github-readme-activity-graph) -->
-![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)
+<!-- ![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula) -->
 <!-- [![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula)](https://github.com/leo3914/github-readme-activity-graph) -->
 <!-- ![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo3914&theme=dracula) -->
 
